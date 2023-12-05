@@ -1,0 +1,3 @@
+jaxrs\entities\Employe.class
+jaxrs\resources\GestionEmploye.class
+jaxrs\utilities\RestActivator.class
